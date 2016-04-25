@@ -1,3 +1,2 @@
 # gisserver
-webgis, mapserver, zendframework, mysql
-v.1.0
+Webgis, Mapserver, Zend Framework (v1), Dojo Toolkit, jQuery, MySQL
